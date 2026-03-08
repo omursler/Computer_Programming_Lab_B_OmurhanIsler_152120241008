@@ -1,6 +1,6 @@
 # Programming Laboratory - Weekly Assignments
 
-This repository contains the weekly programming assignments and laboratory exercises completed for the **Programming Laboratory-B** course during the **2025-2026 Spring Semester** at **Eskişehir Osmangazi University**.
+This repository contains the weekly programming assignments and laboratory exercises completed for the **Computer Programming Laboratory-B** course during the **2025-2026 Spring Semester** at **Eskişehir Osmangazi University**.
 
 ## 👤 Student Information
 * **Name:** Ömürhan İşler
