@@ -19,7 +19,7 @@ The repository is organized by weeks. Each directory contains the source code, h
 | **Week 02** | Linked Lists & String Opeartions | ✅ Completed |
 | **Week 03** | Doubly Linked Lists | ✅ Completed |
 | **Week 04** | Stacks & Queues | ✅ Completed |
-
+| **Week 05** | Stack to Stack Transfer | ✅ Completed |
 
 ## 🛠️ Environment & Tools
 * **Language:** C / C++
